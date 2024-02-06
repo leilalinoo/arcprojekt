@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/leilalinoo/arcprojekt.git/static/css/main.38c97610.css",
-    "main.js": "/leilalinoo/arcprojekt.git/static/js/main.71d3fe57.js",
-    "static/js/787.dbf18a97.chunk.js": "/leilalinoo/arcprojekt.git/static/js/787.dbf18a97.chunk.js",
-    "index.html": "/leilalinoo/arcprojekt.git/index.html",
-    "main.38c97610.css.map": "/leilalinoo/arcprojekt.git/static/css/main.38c97610.css.map",
-    "main.71d3fe57.js.map": "/leilalinoo/arcprojekt.git/static/js/main.71d3fe57.js.map",
-    "787.dbf18a97.chunk.js.map": "/leilalinoo/arcprojekt.git/static/js/787.dbf18a97.chunk.js.map"
+    "main.css": "/arcprojekt/static/css/main.38c97610.css",
+    "main.js": "/arcprojekt/static/js/main.ccb78f8d.js",
+    "static/js/787.dbf18a97.chunk.js": "/arcprojekt/static/js/787.dbf18a97.chunk.js",
+    "index.html": "/arcprojekt/index.html",
+    "main.38c97610.css.map": "/arcprojekt/static/css/main.38c97610.css.map",
+    "main.ccb78f8d.js.map": "/arcprojekt/static/js/main.ccb78f8d.js.map",
+    "787.dbf18a97.chunk.js.map": "/arcprojekt/static/js/787.dbf18a97.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38c97610.css",
-    "static/js/main.71d3fe57.js"
+    "static/js/main.ccb78f8d.js"
   ]
 }
